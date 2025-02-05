@@ -1,0 +1,5 @@
+```
+name          # Displays the system's user name
+name -r       # Outputs the kernel release version
+uname -a       # Shows all system information, including the type and version of the operating system
+```name
