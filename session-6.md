@@ -30,5 +30,6 @@ Web applications are typically structured into three fundamental layers: the pre
 
 When we refer to three-tier applications, we highlight this structured approach. However, many modern applications are classified as n-tier applications, which feature numerous services and functionalities distributed across various layers. This architecture allows for greater flexibility, scalability, and the integration of diverse technologies tailored to specific needs. Each layer can be constructed using different programming languages, frameworks, or tools, creating a robust environment that can adapt to changing requirements and technological advancements.
 
-![Screenshot (6)](https://github.com/user-attachments/assets/0d502918-ba65-4bbc-aac9-d33ecf575973)
+![WhatsApp Image 2025-02-19 at 19 05 48_b6f7f528](https://github.com/user-attachments/assets/671e3462-de22-41c3-9797-c6ec834a6217)
+
 
