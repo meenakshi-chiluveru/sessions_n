@@ -21,3 +21,14 @@
 - **systemctl**: Manages system services using systemd, allowing for controlling, starting, stopping, and checking the status of daemons and services.
 - **netstat**: Provides network statistics, revealing active connections, routing tables, and network interface statistics for diagnostic purposes.
 - **useradd**: Creates a new user account on the system, facilitating user management and access control in multi-user environments.
+
+**Web Applications:**
+---------------------------
+When a user navigates to a .com website, the information they see is not solely sourced from a single, centralized server; instead, it often incorporates resources from a Content Delivery Network (CDN). This means that the delivery of content is distributed across multiple servers, enhancing speed and reliability.
+
+Web applications are typically structured into three fundamental layers: the presentation layer, the business logic layer, and the data layer. These layers work together to create a seamless experience for the user. The presentation layer is what users interact with visually, displaying the content and elements of the application in an engaging and user-friendly manner. The business logic layer serves as the core of the application, processing data and executing the rules that define its behavior. Lastly, the data layer manages the storage, retrieval, and manipulation of data, ensuring that information flows efficiently throughout the application.
+
+When we refer to three-tier applications, we highlight this structured approach. However, many modern applications are classified as n-tier applications, which feature numerous services and functionalities distributed across various layers. This architecture allows for greater flexibility, scalability, and the integration of diverse technologies tailored to specific needs. Each layer can be constructed using different programming languages, frameworks, or tools, creating a robust environment that can adapt to changing requirements and technological advancements.
+
+![Screenshot (6)](https://github.com/user-attachments/assets/0d502918-ba65-4bbc-aac9-d33ecf575973)
+
