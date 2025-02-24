@@ -60,4 +60,6 @@ In scenarios where we need to assess the existence or properties of files, we ca
 
 This expanded explanation enriches the context of each type of expression, providing a clearer understanding of how they function and the conditions they evaluate.
 
+if there is failure in execution then we will stop the executing by exit
+
 
