@@ -34,3 +34,30 @@ The else-if construct enables the evaluation of multiple conditions in sequence.
 
 These conditional structures allow for sophisticated decision-making in scripts, ensuring the appropriate commands are executed based on the outcome of specified conditions.
 
+In conditional statements, the expressions being evaluated can involve various types of data, including numbers, strings, or files. 
+
+### Numeric Condition Expressions
+When dealing with numerical comparisons, several operators can be employed to assess relationships between values. Here are some examples:
+
+- `1 -eq 2`: Evaluates whether 1 is equal to 2.
+- `1 -ne 2`: Checks if 1 is not equal to 2.
+- `1 -lt 2`: Determines if 1 is less than 2.
+- `1 -gt 2`: Verifies if 1 is greater than 2.
+- `1 -le 3`: Assesses whether 1 is less than or equal to 3.
+- `1 -ge 7`: Tests if 1 is greater than or equal to 7.
+
+### String Condition Expressions
+For string comparisons, we utilize specific operators to identify relationships between strings. These include:
+
+- `[ABC == ABC]`: Checks if the string 'ABC' is equal to 'ABC'.
+- `abc != abc`: Verifies if the string 'abc' is not equal to 'abc'.
+- `-z '$var'`: Determines if the variable `$var` is an empty string.
+
+### File Condition Expressions
+In scenarios where we need to assess the existence or properties of files, we can use file condition expressions. For instance:
+
+- `[-e /opt/file]`: Checks if the file located at `/opt/file` exists.
+
+This expanded explanation enriches the context of each type of expression, providing a clearer understanding of how they function and the conditions they evaluate.
+
+
